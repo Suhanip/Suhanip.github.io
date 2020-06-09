@@ -1,3 +1,3 @@
 # Suhanip.github.io
 
-My Portfolio: http://suhanip.github.io
+My Portfolio: http://Suhanip.github.io
